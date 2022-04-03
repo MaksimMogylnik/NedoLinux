@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\NedoLinux\NedoLinux\bin\Debug\NedoLinux.exe.config
+C:\Users\user\source\repos\NedoLinux\NedoLinux\bin\Debug\NedoLinux.exe
+C:\Users\user\source\repos\NedoLinux\NedoLinux\bin\Debug\NedoLinux.pdb
+C:\Users\user\source\repos\NedoLinux\NedoLinux\obj\Debug\NedoLinux.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NedoLinux\NedoLinux\obj\Debug\NedoLinux.exe
+C:\Users\user\source\repos\NedoLinux\NedoLinux\obj\Debug\NedoLinux.pdb
